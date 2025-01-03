@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A student in HITSZ</h3>
 
-- 🌱 I’m currently learning **Compilers: Principles**
+- 🌱 I’m currently learning **Computer Network**
 
 - 📫 How to reach me **1819539569@qq.com**
 
@@ -13,7 +13,7 @@
 <b>💬 Wechat ID</b>: wanghan-1016
 </p>
 <p align="left">
-<b>📧 Gmail</b>: dinorexnb@gmail.com
+<b>📧 email</b>: 1819539569@qq.com
 </p>
 
 <h3 align="left">Blog</h3>
